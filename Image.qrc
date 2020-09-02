@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>source/911.png</file>
+        <file>source/912.png</file>
+        <file>source/913.png</file>
+        <file>source/AddSong.png</file>
+        <file>source/cloth.png</file>
+        <file>source/cloth2.png</file>
+        <file>source/cloth3.png</file>
+        <file>source/colorVarious.jpg</file>
+        <file>source/colorVarious2.jfif</file>
+        <file>source/countinu.png</file>
+        <file>source/countinued.png</file>
+        <file>source/haveplayed.png</file>
+        <file>source/last.png</file>
+        <file>source/LikeSong.png</file>
+        <file>source/loop.png</file>
+        <file>source/lover.png</file>
+        <file>source/loverd.png</file>
+        <file>source/loverded.png</file>
+        <file>source/loving.png</file>
+        <file>source/MIN.png</file>
+        <file>source/music.png</file>
+        <file>source/music8.png</file>
+        <file>source/musics.png</file>
+        <file>source/next.png</file>
+        <file>source/playloop.png</file>
+        <file>source/random.png</file>
+        <file>source/record.png</file>
+        <file>source/SongHome.png</file>
+        <file>source/SongList.png</file>
+        <file>source/void2.png</file>
+        <file>source/XX.png</file>
+        <file>qss/slider2.qss</file>
+        <file>qss/slider3.qss</file>
+        <file>qss/Style.qss</file>
+        <file>qss/Style2.qss</file>
+        <file>qss/Style3.qss</file>
+        <file>qss/texteditfile.qss</file>
+        <file>source/colorChange.jpg</file>
+        <file>source/colorChange2.jpg</file>
+    </qresource>
+</RCC>
