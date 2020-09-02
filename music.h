@@ -94,7 +94,7 @@ private:
     int angle=0;   //旋转角度
     QPixmap pix;  //歌词页面
     QTimer *timer;
-    QString LrcPhoto=":/image/911.png";   //初始化歌词图
+    QString LrcPhoto=":/source/911.png";   //初始化歌词图
 
     bool mouseIsPressd;   //鼠标是否被按下
     QPoint mousePosition;  //鼠标位置
