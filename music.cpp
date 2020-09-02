@@ -681,7 +681,10 @@ void Music::on_horizontalSlider_valueChanged(int value)      //进度条拖动
     {
         player->stop();
         player->setPosition(value);
-        player->play();
+        if(isSuspect==false)
+        {
+            player->play();
+        }
     }
 }
 
