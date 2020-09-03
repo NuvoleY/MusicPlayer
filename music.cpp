@@ -37,7 +37,7 @@ Music::Music(QWidget *parent) :
 
     //为右上角按钮添加特效
     ui->pushButtonDestroy->setStyleSheet("QPushButton{border:none;color:rgb(255, 255, 255);}"
-                                         "QPushButton:hover{background-color: #bdddf8;border:none;color:rgb(255, 255, 255);}");
+                                         "QPushButton:hover{background-color: #FF0000;border:none;color:rgb(255, 255, 255);}");
     ui->pushButtonMIN->setStyleSheet( "QPushButton{border:none;color:rgb(255, 255, 255);}"
                                            "QPushButton:hover{background-color: #bdddf8;border:none;color:rgb(255, 255, 255);}");
     ui->pushButtonTheme->setStyleSheet( "QPushButton{border:none;color:rgb(255, 255, 255);}"
